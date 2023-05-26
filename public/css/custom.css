@@ -1,7 +1,7 @@
 /* 静态文件导入 自定义样式*/
 
-#theme-fukasawa .sideLeft hr{
-    opacity: .04;
+.mr-2.fas.fa-bullhorn{
+    color: #f00;
 }
 /* 页脚footer渐变色滚动动画 */
 @-webkit-keyframes Gradient {

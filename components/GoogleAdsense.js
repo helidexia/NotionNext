@@ -50,7 +50,7 @@ const AdSlot = ({ type = 'show' }) => {
             data-ad-format="fluid"
             data-adtest={BLOG.ADSENSE_GOOGLE_TEST ? 'on' : 'off'}
             data-ad-client={BLOG.ADSENSE_GOOGLE_ID}
-            data-ad-slot="3806269138"></ins>
+            data-ad-slot="2899380798"></ins>
   }
 
   // 信息流广告

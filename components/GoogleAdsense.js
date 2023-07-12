@@ -79,7 +79,7 @@ const AdSlot = ({ type = 'show' }) => {
         style={{ display: 'block' }}
         data-ad-client={BLOG.ADSENSE_GOOGLE_ID}
         data-adtest={BLOG.ADSENSE_GOOGLE_TEST ? 'on' : 'off'}
-        data-ad-slot="8807314373"
+        data-ad-slot="8395250050"
         data-ad-format="auto"
         data-full-width-responsive="true"></ins>
 }

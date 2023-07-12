@@ -61,7 +61,7 @@ const AdSlot = ({ type = 'show' }) => {
             style={{ display: 'block' }}
             data-adtest={BLOG.ADSENSE_GOOGLE_TEST ? 'on' : 'off'}
             data-ad-client={BLOG.ADSENSE_GOOGLE_ID}
-            data-ad-slot="1510444138"></ins>
+            data-ad-slot="7030197499"></ins>
   }
 
   // 原生广告
